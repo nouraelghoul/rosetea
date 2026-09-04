@@ -1,0 +1,113 @@
+.head{
+    background-image: url(../WhatsApp\ Image\ 2026-08-08\ at\ 3.15.53\ AM.jpeg);
+    height: 100vh;
+    width: 100%;
+    background-position: center center;
+    overflow: hidden;
+}
+.nnnn{
+padding-left: 48px;
+margin-left: 48px;
+}
+.nnnn h2{
+    color:#885d26;
+    font-size: 60px;
+    padding:48px;
+    padding-left: 140px;
+    width: 50px;
+    display: flex;
+    text-align: center;
+    font-family: "Jolly Lodger", system-ui;
+    font-weight: 100;
+}
+.bnnb button{
+     background-color: transparent;
+    color: #DD978F;
+    border: none;
+  border-radius: 50%;
+  width: 150px;
+  height: 150px;
+   font-family: "Jolly Lodger", system-ui;
+    font-weight: 100;
+   color: #885d26aa;
+   padding:48px;
+   padding-left: 270px;
+   font-size: 40px;
+   
+   
+
+}
+
+.bnnb button:hover{
+transform: scale(1.2,1.2);
+transition-duration: 1s;
+}
+.bnnb a{
+    text-decoration: none;
+}
+
+/* secondhtml */
+.hheadtwo{
+    background-image: url(../photo_2026-08-09_18-30-08.jpg);
+    height: 100vh;
+    width: 100%;
+   
+   background-size: cover;
+   background-position: center;
+}
+
+.formh h1 {
+    color: #CF3D58;
+     font-family: "Jolly Lodger", system-ui;
+     font-size: 48px;
+}
+form {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+   
+   
+}
+label {
+    color: #CF3D58;
+    font-size: 18px;
+    font-size: 30px;
+    
+    font-family: "Jolly Lodger", system-ui;
+}
+input {
+    height: 35px;
+    border: #E492A1 solid 1px;
+    background-color:#ddceb759;
+    padding: 5px 10px;
+    width:400px;
+    
+}
+.signup-form{
+
+}
+input:hover{
+border-color: #e492a147;
+}
+.hheadtwo button {
+    padding: 5px;
+    width: 200px;
+    border: #E492A1 solid 1px;
+    background-color:transparent ;
+    color: #CF3D58;
+    font-size: 30px;
+    border-radius: 60px;
+     font-family: "Jolly Lodger", system-ui;
+}
+.hheadtwo button:hover{
+    background-color: #dd978f66;
+    transition: 1s;
+}
+input:focus,
+textarea:focus{
+    box-shadow:0px 0px 10px #DD978F;
+    outline: none;
+    transition: 1s;
+}
+
+

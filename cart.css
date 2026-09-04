@@ -1,0 +1,22 @@
+.bigcart{
+background-color:#f3e7e977;
+width: 100%;
+}
+.body{
+background-color:#f3e7e977;
+
+}
+
+.cartcard{
+
+    width: 400px;
+    height: 400px;
+
+}
+
+.carth{
+    font-size: 70px;
+    font-family: "Jolly Lodger", system-ui;
+    color: #ed9cd5a1;
+  
+}
