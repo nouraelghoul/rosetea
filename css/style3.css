@@ -1,0 +1,237 @@
+.backh{
+    background-image: url(../ChatGPT\ Image\ Aug\ 11\,\ 2026\,\ 10_53_30\ AM.png);
+     height: 100vh;
+    width: 100%;
+    background-position: center center;
+    overflow: hidden;
+}
+
+
+
+.buttja{
+    padding: 5px;
+    width: 120px;
+    border: #bd7f94b6 solid 1px;
+    background-color:transparent ;
+    color: #ea91cf;
+    font-size: 30px;
+    border-radius: 60px;
+    font-family: "Jolly Lodger", system-ui;
+}
+
+.upbt{
+     padding: 5px;
+    width: 100px;
+    border: #bd7f94b6 solid 1px;
+    background-color:transparent ;
+    color: #ea91cf;
+    font-size: 30px;
+    border-radius: 60px;
+    font-family: "Jolly Lodger", system-ui;
+}
+.debtn{
+    padding: 5px;
+    width: 100px;
+    border: #bd7f94b6 solid 1px;
+    background-color:transparent ;
+    color: #ea91cf;
+    font-size: 30px;
+    border-radius: 60px;
+    font-family: "Jolly Lodger", system-ui;
+}
+.space{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+.hname{
+    color: rgba(0, 0, 0, 0.78);
+    font-family: "Jolly Lodger", system-ui;
+    font-size: 40px;
+    text-align: center;
+}
+.card{
+    width: 400px;
+    height: 400px;
+}
+.price{
+   font-size: 20px;
+   font-weight: 500;
+   color: rgba(0, 0, 0, 0.498);
+}
+
+
+.btnadd{
+    padding: 5px;
+    width: 100px;
+    border: #bd7f94b6 solid 1px;
+    background-color:transparent ;
+    color: #ed62c3;
+    font-size: 30px;
+    border-radius: 60px;
+    font-family: "Jolly Lodger", system-ui;
+    margin: 20px;
+    text-align: center;
+}
+.btnadd:hover{
+color: #984981;
+transition: 1S;
+}
+label{
+padding: 3px;
+    width: 200px;
+    /* border: #bd7f94b6 solid 1px; */
+    background-color:transparent ;
+    color: #984981;
+    font-size: 30px;
+    /* border-radius: 60px; */
+    font-family: "Jolly Lodger", system-ui;
+    text-align: left;
+}
+
+.input{
+border-radius: 50px;
+border: none;
+}
+
+input:focus,
+textarea:focus{
+    box-shadow:0px 0px 10px #dd8fbf8c;
+    outline: none;
+    transition: 1s;
+}
+
+.bigcard{
+    
+    height: 600px;
+}
+
+.form-search{
+    color: #591cbb;
+    
+}
+
+
+.card{
+    height: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap:0px;
+ 
+    
+}
+.formmbk{
+    /* background-color: #ea91cf4e; */
+    background-color: #e0d2d246;;
+    border-radius: 40px;
+    width: 200px;
+    margin-top: 48px;
+}
+
+.model{
+    background-color: #c7d9ff94;
+}
+.modal-header{
+    background-color:#f3e7e977;
+}
+.modal-content{
+background-color: #f3e7e989;
+}
+
+.words{
+    width: 25%;
+    color: #ffffff;
+     font-family: "Jolly Lodger", system-ui;
+     font-size: 600px;
+     padding-left: 48px;
+     margin-left: 48px;
+     
+}
+.words h1{
+    font-size: 60px;
+
+}
+.words h4{
+    font-size: 40px;
+}
+.words h5{
+    font-size: 30px;
+}
+
+
+.logbt{
+    background-color: transparent;
+    color:#DCC6FF ;
+    outline: none;
+  
+    
+width: 90px;
+height: 40px;
+     border: #ea91cf  solid 1px;
+    background-color: #ea91cf;
+font-size: 25px;
+    border-radius: 60px;
+    font-family: "Jolly Lodger", system-ui;
+}
+
+
+
+.logbt:hover{
+  color:   #591cbb;
+  transform: scale(1.2,1.2);
+transition-duration: 1s;
+}
+
+ul  {
+    display: flex;
+    gap: 25px;
+   
+   
+    text-decoration: none;
+    list-style: none;
+}
+
+li a{
+    font-size: 40px;
+     color: #591cbb99 !important;
+    text-decoration: none;
+    font-family: "Jolly Lodger", system-ui;
+}
+
+
+
+.navbar{
+    background-color: #da9ebc6f;
+}
+.navv{
+    text-decoration: none;
+    list-style: none;
+    color: #591cbbac;
+    font-size: 35px;
+    font-family: "Jolly Lodger", system-ui;
+}
+
+
+
+
+
+.backmod{
+    background-color: #e0d2d21a;
+    width: 1300px;
+}
+
+.body{
+background-color:#f3e7e977;
+
+}
+
+
+.backfooter{
+    background-color: #f3e7e9a1;
+    margin-top: 40px;
+}
+.backfooter i{
+    color: #ea91cf;
+}
